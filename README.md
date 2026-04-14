@@ -113,6 +113,10 @@ Install dependencies:
 ```bash
 pip install streamlit numpy matplotlib
 ```
+or
+```bash
+pip install -r requirements.txt
+```
 
 Run the app:
 
